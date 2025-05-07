@@ -59,7 +59,9 @@
 ---
 
 ## 📫 Connect With Me
- 
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923116543708)
+
 [![Email](https://img.shields.io/badge/Email-moeendastgir@gmail.com-red?style=flat-square&logo=gmail)](mailto:moeendastgir@gmail.com)
 
 ---
