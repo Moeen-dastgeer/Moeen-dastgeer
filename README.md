@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I love coding and problem solving.**
 
+- 📫 How to reach me moeendastgir@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
