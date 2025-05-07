@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moeen-dastgeer](https://github.com/Moeen-dastgeer)
 
-- 💬 Ask me about **MERN, PHP, LARAVEL**
+- 💬 Ask me about **PHP, LARAVEL, MERN**
 
 - ⚡ Fun fact **I love coding and problem solving.**
 
