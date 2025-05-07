@@ -51,6 +51,10 @@
 
 ## 📌 Featured Projects
 
+- 🔗 [E-Commerce React Laravel](https://github.com/Moeen-dastgeer/ecomm-react-laravel)
+- 🔗 [Ali Baba Computer](https://github.com/Moeen-dastgeer/alibabcomputer)
+- 🔗 [The Advanced Security](https://github.com/Moeen-dastgeer/theadvancedsecurity)
+- 🔗 [mfatinternational](https://github.com/Moeen-dastgeer/mfat)
 - 🔗 [Employee Management System](https://github.com/hammadchwork/employee-management)
 - 🔗 [Student Attendance System](https://github.com/hammadchwork/attendance-system)
 - 🔗 [POS Billing Software](https://github.com/hammadchwork/pos-system)
