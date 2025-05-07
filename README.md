@@ -51,6 +51,7 @@
 
 ## 📌 Featured Projects
 
+- 🔗 [Employees Management System](https://github.com/Moeen-dastgeer/employee_management_system)
 - 🔗 [E-Commerce React Laravel](https://github.com/Moeen-dastgeer/ecomm-react-laravel)
 - 🔗 [Ali Baba Computer](https://github.com/Moeen-dastgeer/alibabcomputer)
 - 🔗 [The Advanced Security](https://github.com/Moeen-dastgeer/theadvancedsecurity)
