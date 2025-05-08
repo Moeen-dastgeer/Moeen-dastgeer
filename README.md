@@ -8,7 +8,7 @@
 - 💻 I work with **HTML, CSS, Bootstrap, AdminLTE, JavaScript, JQUERY, REACT, PHP, LARAVEL, MySQL**
 - 🧠 Always learning: currently exploring **New Technologies**
 - 📫 How to reach me: **moeendastgir@gmail.com**
-- 🎯 Available for freelance work via **moeendastgir@gmail.com**
+- 🎯 Available for freelance work via **moeendastgir@gmail.com or +923116543708**
 
 ---
 <h3 align="left">Languages and Tools:</h3>
