@@ -53,13 +53,13 @@
 
 - 🔗 [Employees Management System](https://github.com/Moeen-dastgeer/employee_management_system)
 - 🔗 [Students Attendance Management System](https://github.com/Moeen-dastgeer/students_attendance_system)
-- 🔗 [E-Commerce React Laravel](https://github.com/Moeen-dastgeer/ecomm-react-laravel)
 - 🔗 [Ali Baba Computer](https://github.com/Moeen-dastgeer/alibabcomputer)
 - 🔗 [The Advanced Security](https://github.com/Moeen-dastgeer/theadvancedsecurity)
+- 🔗 [E-Commerce React Laravel](https://github.com/Moeen-dastgeer/ecomm-react-laravel)
 - 🔗 [mfatinternational](https://github.com/Moeen-dastgeer/mfat)
-- 🔗 [Employee Management System](https://github.com/hammadchwork/employee-management)
-- 🔗 [Student Attendance System](https://github.com/hammadchwork/attendance-system)
-- 🔗 [POS Billing Software](https://github.com/hammadchwork/pos-system)
+- 🔗 [Pak Data Tracker](https://github.com/Moeen-dastgeer/pakdatatracker)
+- 🔗 [Jobs For You](https://github.com/Moeen-dastgeer/jobsforyou)
+- 🔗 [crud with redux toolkit](https://github.com/Moeen-dastgeer/crud-with-redux-toolkit)
 *(Add or change project links above)*
 
 ---
