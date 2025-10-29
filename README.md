@@ -64,6 +64,7 @@
 - 🔗 [Green System Pakistan](https://github.com/Moeen-dastgeer/Green-System-Pakistan)
 - 🔗 [Emirates Foods UAE](https://github.com/Moeen-dastgeer/emiratesfoodsuae)
 - 🔗 [Point Of Sale System](https://github.com/Moeen-dastgeer/Point-Of-Sale-System)
+- 🔗 [Medicine Prescription Pad](https://github.com/Moeen-dastgeer/Medicine-Prescriptions-Pad)
 *(Add or change project links above)*
 
 ---
