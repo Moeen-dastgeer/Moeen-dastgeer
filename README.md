@@ -61,6 +61,8 @@
 - 🔗 [Jobs For You](https://github.com/Moeen-dastgeer/jobsforyou)
 - 🔗 [crud with redux toolkit](https://github.com/Moeen-dastgeer/crud-with-redux-toolkit)
 - 🔗 [Web Portal](https://github.com/Moeen-dastgeer/Web-Portal)
+- 🔗 [Green System Pakistan](https://github.com/Moeen-dastgeer/Green-System-Pakistan)
+- 🔗 [Emirates Foods UAE](https://github.com/Moeen-dastgeer/emiratesfoodsuae)
 *(Add or change project links above)*
 
 ---
