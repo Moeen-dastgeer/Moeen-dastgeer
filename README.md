@@ -63,6 +63,7 @@
 - 🔗 [Web Portal](https://github.com/Moeen-dastgeer/Web-Portal)
 - 🔗 [Green System Pakistan](https://github.com/Moeen-dastgeer/Green-System-Pakistan)
 - 🔗 [Emirates Foods UAE](https://github.com/Moeen-dastgeer/emiratesfoodsuae)
+- 🔗 [Point Of Sale System](https://github.com/Moeen-dastgeer/Point-Of-Sale-System)
 *(Add or change project links above)*
 
 ---
